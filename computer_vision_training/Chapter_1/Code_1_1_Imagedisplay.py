@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from ImageUtilities import createImageF, imageReadL, showImageL
 import os.path
 from PlotUtilities import plot3DColorHistogram

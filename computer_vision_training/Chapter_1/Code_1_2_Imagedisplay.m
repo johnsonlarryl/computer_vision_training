@@ -18,6 +18,7 @@ function inverted = invert(image)
 ##   end
 ##end
 
+  # Use vectorized operations instead
   inverted =max(max(image)) - image
  end
 

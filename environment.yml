@@ -1,0 +1,15 @@
+name: computer_vision_training  
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - matplotlib
+  - numpy=1.23.3
+  - pandas
+  - python=3.9.5
+  - pytorch
+  - jupyter
+  - scikit-learn
+  - torchvision=0.15
